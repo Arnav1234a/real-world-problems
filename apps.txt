@@ -1,0 +1,14 @@
+real world problems- 
+1-sometime we forgot to do the work that we want to---we can solve this with the help of technology, we can make alarm or reminder app
+2-we get ill by not taking proper food---with the help of technology, we can make a app that shows us a proper diet and healthy eating foods
+3-we lie too much---with the help of technology we can make a lie detector machine
+4-we fall from stairs when we are in hurry--we cant solve this with the help of technology,we have to just walk properly
+5-if we are angry we'll fight or violence to much--we can make app for this that tells us the disadvantages of fight or getting angry
+6-we broke something if we are angry--we can make app for this that tells us the disadvantages of fight or getting angry
+7-sometime we have to do the homework, but we don't want to--we cant solve this with the help of technology
+8-sometime we miss our buses and can't approach to school--for this we can make a alarm app that wake up on time
+9-sometime our mother can't think what to cook--we can make a app that shows the variety of foods
+10-sometime we can't wake up early, but we have to wake up for school--we cant solve this with the help of technology
+  
+I have decided to make a reminder app because sometime we forgot the work that we have to do 
+but this app can help us by remind the work at any time.                   
